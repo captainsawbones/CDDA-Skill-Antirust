@@ -10,6 +10,7 @@
     "starting_trait": true,
     "purifiable": false,
     "valid": false,
+    "types": [ "MEMORY" ],
     "cancels": [ "FORGETFUL", "GOODMEMORY" ]
 }
 
