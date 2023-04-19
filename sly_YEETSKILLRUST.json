@@ -10,7 +10,7 @@
     "starting_trait": true,
     "purifiable": false,
     "valid": false,
-    "cancels": [ "FORGETFUL" ]
+    "cancels": [ "FORGETFUL", "GOODMEMORY" ]
 }
 
 ]
